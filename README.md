@@ -1,6 +1,4 @@
 **Kitchen Preparation Time Prediction Engine | AI-Powered Food Preparation Time Forecasting**
-
-Official Website: https://github.com/aarush9354/Zomathon
 __________________________________________________________________________________
 
 Project Overview:
@@ -60,10 +58,11 @@ The engine currently faces a "Long-Tail Challenge" with the 45+ min bucket, whic
 For any queries or feedback, kindly contact our team, Team Null Pointerz:
 
 Aarush Raj Singh
-(+91 93542 59076)
+(aarushrajsingh45@gmail.com)
 
 Aatman
 (+91 95401 02113)
 
 Divyansh Balooni
+
 (+91 78380 29059)
